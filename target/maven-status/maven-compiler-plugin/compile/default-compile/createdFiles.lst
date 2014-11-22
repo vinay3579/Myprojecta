@@ -1,0 +1,17 @@
+PageObjects\IPOPage.class
+Reports\ReportPublisher.class
+FunctionLibraries\WebDriverBrowser.class
+FunctionLibraries\FunctionLibrary.class
+PageObjects\ResearchHubPage.class
+PageObjects\HomePage.class
+Logger\LoggerInstance.class
+PageObjects\CompaniesPage.class
+PageObjects\MarketPage.class
+PageObjects\WidgetPage.class
+PageObjects\ResourcesPage.class
+PageObjects\ReportsPage.class
+FunctionLibraries\TestClass.class
+PageObjects\MutualFundsPage.class
+Reports\CustomMethodReport.class
+FunctionLibraries\AutomationConstants.class
+FunctionLibraries\FunctionLibrary$1.class

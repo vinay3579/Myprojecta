@@ -1,0 +1,8 @@
+#surefire_0
+#Sat Nov 22 20:07:29 IST 2014
+RemoteUrl=http\://127.0.0.1\:4444
+user.dir=C\:\\Users\\vinay\\workspace\\com.finalaya
+BrowserType=firefox
+RemoteExecution=false
+localRepository=C\:\\Users\\vinay\\.m2\\repository
+basedir=C\:\\Users\\vinay\\workspace\\com.finalaya

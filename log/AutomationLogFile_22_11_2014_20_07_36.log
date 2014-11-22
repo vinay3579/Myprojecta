@@ -1,0 +1,90 @@
+INFO main Finalaya - Browser launched
+INFO main Finalaya - Navigated to  http://finalaya.com
+INFO main Finalaya - ***********************verifyHomeTabCal() Started*********************************
+INFO main Finalaya - Verify finalaya logo
+INFO main Finalaya - verify logo image
+INFO main Finalaya - Click on Home Page Tab.
+INFO main Finalaya - click on Market Tab
+INFO main Finalaya - click on Companies Tab
+INFO main Finalaya - click on Mutual Funds Tab
+INFO main Finalaya - click on IPO Tab
+INFO main Finalaya - click on Research Hub Tab
+INFO main Finalaya - click on Widget Gallery Tab
+INFO main Finalaya - click on Resources Tab
+INFO main Finalaya - click on Reports Tab
+INFO main Finalaya - click on QUICK LINKS Tab
+INFO main Finalaya - click on Latest News button
+INFO main Finalaya - Verify finalaya tab squence.
+INFO main Finalaya - Click on square button and verify Market today, sensex text.
+INFO main Finalaya - click on square button
+INFO main Finalaya - Not able to click on Weblink
+INFO main Finalaya - click on SENSEX link
+INFO main Finalaya - Verify latest newes section.
+INFO main Finalaya - click on Latest News button
+INFO main Finalaya - click on Latest News button
+INFO main Finalaya - Click on home page search.
+INFO main Finalaya - sends company name on search bar
+INFO main Finalaya - Not able to click on Tab
+INFO main Finalaya - ***********************verifyHomeTabCal() Ended*********************************
+INFO main Finalaya - Browser launched
+INFO main Finalaya - Navigated to  http://finalaya.com
+INFO main Finalaya - ***********************Companies_VerifyCompaniesTab() Started*********************************
+INFO main Finalaya - Verify Microsite Page Is displayed.
+INFO main Finalaya - Going to  Sub Tab
+INFO main Finalaya - Unable to navigate to sublink
+INFO main Finalaya - Microsite Page is not displayed
+INFO main Finalaya - Verify Results Page Is displayed.
+INFO main Finalaya - Going to  Sub Tab
+INFO main Finalaya - Unable to navigate to sublink
+INFO main Finalaya - Results Page is not displayed
+INFO main Finalaya - Verify Annoucement Page Is displayed.
+INFO main Finalaya - Going to  Sub Tab
+INFO main Finalaya - Unable to navigate to sublink
+INFO main Finalaya - Annoucement Page is not displayed
+INFO main Finalaya - Verify Compare Companies Page Is displayed.
+INFO main Finalaya - Going to  Sub Tab
+INFO main Finalaya - Unable to navigate to sublink
+INFO main Finalaya - Compare Companies Page is not displayed
+INFO main Finalaya - Verify Industries Page Is displayed.
+INFO main Finalaya - Going to  Sub Tab
+INFO main Finalaya - Unable to navigate to sublink
+INFO main Finalaya - Industries Page is not displayed
+INFO main Finalaya - Verify Document Page Is displayed.
+INFO main Finalaya - Going to  Sub Tab
+INFO main Finalaya - Unable to navigate to sublink
+INFO main Finalaya - Document Page is not displayed
+INFO main Finalaya - **********************Companies_VerifyCompaniesTab() Ended*******************************
+INFO main Finalaya - Browser closed
+INFO main Finalaya - Browser launched
+INFO main Finalaya - Navigated to  http://finalaya.com
+INFO main Finalaya - ***********************Companies_VerifyNavigationOnCompaniesSubtab() Started*********************************
+INFO main Finalaya - Click On Companies tab.
+INFO main Finalaya - click on Companies Tab
+INFO main Finalaya - Not able to click on Weblink
+INFO main Finalaya - Verify Information Tab is Present On Page.
+INFO main Finalaya - Information _Tab is not displayed
+INFO main Finalaya - Verify Document Tab Is Displayed on Page.
+INFO main Finalaya - Document_Tab is not displayed
+INFO main Finalaya - Verify Companies Names are Sorted in Ascending Order on Microsite Page.
+INFO main Finalaya - Verify Companies Names are Sorted in Descending Order on Microsite Page.
+INFO main Finalaya - Not able to click on Weblink
+INFO main Finalaya - Click On Companies tab.
+INFO main Finalaya - click on Companies Tab
+INFO main Finalaya - Not able to click on Weblink
+INFO main Finalaya - Click On InforMation tab.
+INFO main Finalaya - Not able to click on Weblink
+INFO main Finalaya - Verify ToolTip Company Text Value Industry Column Value Matches.
+INFO main Finalaya - Verify BSE Text red in color have down arrow and green color text have up arrow.
+INFO main Finalaya - Verify NSE Text red color have down arrow and green color text have up arrow.
+INFO main Finalaya -  Image is right displayed to Text Value.
+INFO main Finalaya -  Image is Left displayed to Text Value.
+INFO main Finalaya - Verify Pagination is Displayed.
+INFO main Finalaya - Pagination is not displayed.
+INFO main Finalaya - Verify Previous and Next Button are Present and Clickable.
+INFO main Finalaya - Browser launched
+INFO main Finalaya - Navigated to  http://finalaya.com
+INFO main Finalaya - ***********************IPO_Calender_VerifyCalenderTab() Started*********************************
+INFO main Finalaya - click on IPO Tab
+INFO main Finalaya - Not able to click on Weblink
+INFO main Finalaya - Verify user is navigated to IPO page.
+INFO main Finalaya - User is navigated to IPO page

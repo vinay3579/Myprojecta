@@ -1,0 +1,28 @@
+INFO main Finalaya - Browser launched
+INFO main Finalaya - Navigated to  http://finalaya.com
+INFO main Finalaya - ***********************verifyHomeTabCal() Started*********************************
+INFO main Finalaya - Verify finalaya logo
+INFO main Finalaya - verify logo image
+INFO main Finalaya - Click on Home Page Tab.
+INFO main Finalaya - click on Market Tab
+INFO main Finalaya - click on Companies Tab
+INFO main Finalaya - click on Mutual Funds Tab
+INFO main Finalaya - click on IPO Tab
+INFO main Finalaya - click on Research Hub Tab
+INFO main Finalaya - click on Widget Gallery Tab
+INFO main Finalaya - click on Resources Tab
+INFO main Finalaya - click on Reports Tab
+INFO main Finalaya - click on QUICK LINKS Tab
+INFO main Finalaya - click on Latest News button
+INFO main Finalaya - Verify finalaya tab squence.
+INFO main Finalaya - Click on square button and verify Market today, sensex text.
+INFO main Finalaya - click on square button
+INFO main Finalaya - Not able to click on Weblink
+INFO main Finalaya - click on SENSEX link
+INFO main Finalaya - Verify latest newes section.
+INFO main Finalaya - click on Latest News button
+INFO main Finalaya - click on Latest News button
+INFO main Finalaya - Click on home page search.
+INFO main Finalaya - sends company name on search bar
+INFO main Finalaya - Not able to click on Tab
+INFO main Finalaya - ***********************verifyHomeTabCal() Ended*********************************
